@@ -1,6 +1,6 @@
-window.promises = [];
+// window.promises = [];
 // Array of promises
-const promises = [];
+windows.promises = [];
 
 // Function to create a promise with a random resolve time
 function createPromise() {
